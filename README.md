@@ -17,7 +17,8 @@
   
   
   checkbox 组件，
-  checkbox.js ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box4.png)
+  checkbox.js
+  ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box4.png)
   ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box5.png)
   这是主要代码 ，图片放到合适位置，，Image指向图片位置，
   效果
