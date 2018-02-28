@@ -27,5 +27,7 @@
   效果
   </br>
   ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box1.png)
+  &nbsp
   ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box2.png)
+  &nbsp
   ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box3.png)
