@@ -14,3 +14,13 @@
   跳回请选择界面，，把传过来的值放入选择结果框中
   
   本例  传值data为 ['婚纱'正定','测试']...还有后面 那些值，，，，传回来的数据为 字符串 '正定'
+  
+  
+  checkbox 组件，
+  checkbox.js ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box4.png)
+  ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box5.png)
+  这是主要代码 ，图片放到合适位置，，Image指向图片位置，
+  效果
+  ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box1.png)
+  ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box2.png)
+  ![img2](https://github.com/chosecode/react-native-chose-and-checkbox-component/blob/master/box3.png)
